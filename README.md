@@ -83,7 +83,7 @@ En esta segunda sesión dedicada al tema de MLOps te familiarizarás con el life
 
 * Una vez que hayas completado tus experimentos, registrarás la última ejecución del experimento en el Registro de MLFlow aprovechando la API de CML.
 
-* En un Workspace dedicado a casos de uso de Producción, un miembro del equipo de Administradores demostrará el despliegue de un modelo en un punto final de API de CML.
+* En un Workspace dedicado a casos de uso de Producción, despliegaras un modelo en un punto final de API de CML.
 
 * Finalmente, el mismo miembro del equipo volverá a desplegar el mismo modelo con recursos adicionales por medio de la API.
 
@@ -193,10 +193,6 @@ En la misma sesión, ejecuta el script "02_cml_api_endpoint.py". Sal del proyect
 
 ![alt text](img/mlops14.png)
 
-
-### Fase de Producción
-
-El Despliegue de un Modelo desde el Registry a un API Endpoint y el redespliegue con Recursos Adicionales serán demostrados por un miembro del equipo de admin.
 
 ### Resumen
 
