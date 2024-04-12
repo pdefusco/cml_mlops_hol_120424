@@ -77,7 +77,7 @@ Un equipo de Administradores de ML designados tiene la tarea de sacar los modelo
 
 ### Instrucciones Para los Ejercicios
 
-En esta segunda sesión dedicada al tema de MLOps te familiarizarás con el lifecycle de MLOps en CML.
+En esta sesión dedicada al tema de MLOps te familiarizarás con el lifecycle de MLOps en CML.
 
 * Desplegarás un Proyecto de CML con fines de desarrollo donde aprovecharás el Seguimiento de MLFlow para desarrollar un clasificador XGBoost para predecir transacciones fraudulentas con tarjetas de crédito y registrar parámetros de modelos.
 
@@ -89,7 +89,7 @@ En esta segunda sesión dedicada al tema de MLOps te familiarizarás con el life
 
 ##### Despliegue de Proyecto
 
-1. Visite [este enlace](https://github.com/pdefusco/cml_bancodev_hol_200324) para descargar todos los archivos.
+1. Visite [este enlace](https://github.com/pdefusco/cml_mlops_hol_120424) para descargar todos los archivos.
 2. Agrega un Runtimes de Python 3.9 con el editor de Workbench.
 3. Cree el proyecto. Ingresa al proyecto y familiarízate con los archivos que se han subido.
 
@@ -196,7 +196,7 @@ En la misma sesión, ejecuta el script "02_cml_api_endpoint.py". Sal del proyect
 
 ### Resumen
 
-En esta segunda sesión, utilizaste Sesiones de CML, MLFlow y la API de CML para desplegar un modelo de aprendizaje automático y procesos básicos de MLOps. En conclusion:
+En esta sesión, utilizaste Sesiones de CML, MLFlow y la API de CML para desplegar un modelo de aprendizaje automático y procesos básicos de MLOps. En conclusion:
 
 * En grandes organizaciones, generalmente se despliegan múltiples Workspaces para separar los ambientes de desarrollo y producción.
 
